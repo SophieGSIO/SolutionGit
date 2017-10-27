@@ -11,6 +11,7 @@ namespace ConsoleAppli
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git !!!");
+            Console.WriteLine("ReHello par SG");
             Console.ReadLine();
         }
     }
