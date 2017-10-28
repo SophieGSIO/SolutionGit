@@ -8,5 +8,8 @@ namespace ConsoleAppli
 {
     class MaClasse
     {
+        //attributs prives
+        private int id;
+        private string nom;
     }
 }
