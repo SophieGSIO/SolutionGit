@@ -11,5 +11,8 @@ namespace ConsoleAppli
         //attributs prives
         private int id;
         private string nom;
+        //constructeur
+        public MaClasse()
+        {}
     }
 }
