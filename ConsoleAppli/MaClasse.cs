@@ -11,5 +11,6 @@ namespace ConsoleAppli
         //attributs prives
         private int id;
         private string nom;
+        private string prenom;
     }
 }
